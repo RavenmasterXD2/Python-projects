@@ -1,0 +1,10 @@
+{
+  "perf_storage": true,
+  "perf_batt_thermal": true,
+  "perf_maintenance": true,
+  "perf_file_integrity": true,
+  "dev_secure_boot": true,
+  "dev_firmware": true,
+  "dev_tpm": true,
+  "rt_scanning": true
+}

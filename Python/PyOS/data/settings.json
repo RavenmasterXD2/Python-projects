@@ -1,0 +1,10 @@
+{
+  "colors": {
+    "text": "#acacac",
+    "desktop_bg": "#2f0046",
+    "taskbar_bg": "#555555",
+    "start_bg": "#55557f",
+    "window_bg": "#390055"
+  },
+  "volume": 86
+}
