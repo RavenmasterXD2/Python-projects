@@ -1,0 +1,3 @@
+## PyOS
+
+you will need some libs from PyQt6, QWebEngine, ...
