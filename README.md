@@ -9,22 +9,22 @@ this repo will be filled with many different projects over the time.
 - [HTML/CSS/JavaScript](#html/css/javascript)
 
 ---
-# Python
+## Python
 
 - WIP
 
 ---
-# Lua
+## Lua
 
 - WIP
 
 ---
-# Java
+## Java
 
 - WIP
 
 ---
-# HTML/CSS/JavaScript
+## HTML/CSS/JavaScript
 
 - WIP
 
