@@ -142,7 +142,6 @@ class WebBrowserWindow(AppWindow):
         if hasattr(desktop, "current_colors"):
             self.apply_os_colors(desktop.current_colors)
 
-        y
         self.raise_()
         self.activateWindow()
         print("Browser window constructed. Tabs:", self.tabs.count(), "WebEngine available:", WEBENGINE_AVAILABLE)
@@ -339,3 +338,4 @@ else:
 
 def launch(parent, desktop):
     return WebBrowserWindow(parent=parent, desktop=desktop)
+
