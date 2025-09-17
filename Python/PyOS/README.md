@@ -25,7 +25,7 @@ Install required dependencies (matching versions)
 ```powershell
 pip install "PyQt6==6.9.*" "PyQt6-WebEngine==6.9.*"
 ```
-That’s it — PyOS will now be ready to run.
+That’s it - PyOS will now be ready to run.
 (We lock to the 6.9.x series to avoid mismatched version issues.)
 
 ## Running PyOS
