@@ -6,7 +6,7 @@ this repo will be filled with many different projects over the time.
 - [Python](#python) 
 - [Lua](#lua) 
 - [Java](#java) 
-- [HTML/CSS/JavaScript](#html/css/javascript)
+- [HTML/CSS/JavaScript](#htmlcssjavascript)
 
 ---
 ## Python
